@@ -1,0 +1,12 @@
+% STP, projekt nr. 1 , zadanie 21, Kajetan Kaczmarek
+
+%%%%%%%%%%%%
+%Rozk³ad na u³amki proste
+%%%%%%%%%%%%
+
+% Przekszta³cenie licznika - (s + 0.5)(s + 1.5) = s^2 + 2s + 0.75
+% Przekszta³cenie mianownika - (s-4)(s+2)(s+3) = s^3 + s^2 - 14 s - 24
+
+a = [1 1 -14 -24];
+b = [1 2 0.75];
+[r , p, k] = residue(b,a); % r - wspó³czynniki w mianowniku 

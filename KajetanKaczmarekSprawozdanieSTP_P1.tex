@@ -1,0 +1,51 @@
+\documentclass[a4paper, 11pt]{article}
+\author{Kajetan Kaczmarek}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[polish]{babel}
+\usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
+\definecolor{mygreen}{RGB}{28,172,0} % color values Red, Green, Blue
+\definecolor{mylilas}{RGB}{170,55,241}
+
+
+\lstset{language=Matlab,%
+    basicstyle=\tiny,
+    breaklines=true,%
+    morekeywords={matlab2tikz},
+    keywordstyle=\color{blue},%
+    morekeywords=[2]{1}, keywordstyle=[2]{\color{black}},
+    identifierstyle=\color{black},%
+    stringstyle=\color{mylilas},
+    commentstyle=\color{mygreen},%
+    showstringspaces=false,%without this there will be a symbol in the places where there is a space
+    numbers=left,%
+    numberstyle={\tiny \color{black}},% size of the numbers
+    numbersep=9pt, % this defines how far the numbers are from the text
+    emph=[1]{for,end,break},emphstyle=[1]\color{red}, %some words to emphasise
+    %emph=[2]{word1,word2}, emphstyle=[2]{style},    
+}
+
+\begin{document}
+\title{Sprawozdanie STP \\* Projekt nr.1 \\* 
+Zadanie 21 \\*}
+\maketitle
+
+\begin{enumerate}
+\item Wyznaczanie transmitancji dyskretnej G(z) \\*
+Najpierw dokonałem rozkładu na ułamki proste używając programu
+
+\lstinputlisting{STP_P_1.m}
+
+Otrzymane rozłożona transmitancja ma postać \[ G(s) = \dfrac{0.5893}{s-4} + \dfrac{0.5357}{s+3} +\dfrac{-0.125}{s+2} \]
+Z kolei transmitancję dyskretną otrzymamy używając wzoru \[G(z) = (\dfrac{z-1}{z})Z(\dfrac{G(s)}{s}) \] Czyli dla naszej transmitancji
+ \[G(z) = (\dfrac{z-1}{z})Z(0.5893\dfrac{-4}{s(s - 4)} + 0.5357\dfrac{3}{s(s + 3)} - 0.125\dfrac{2}{s(s + 2)} ) \] 
+ 
+ Po uproszczeniu , dla T = 0.25s
+  \[G(z) = 0.5893\dfrac{1-e}{z - e} + 0.5357\dfrac{1-e^{-0.75}}{z - e^{-0.75}} - 0.125\dfrac{1-e^{-0.5}}{z - e^{-0.5}}  \] 
+
+
+\end{enumerate}
+\end{document}
