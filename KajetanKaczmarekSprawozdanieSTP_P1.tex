@@ -9,6 +9,7 @@
 \usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
 \definecolor{mygreen}{RGB}{28,172,0} % color values Red, Green, Blue
 \definecolor{mylilas}{RGB}{170,55,241}
+\graphicspath{ {./} }
 
 
 \lstset{language=Matlab,%
@@ -45,7 +46,58 @@ Z kolei transmitancję dyskretną otrzymamy używając wzoru \[G(z) = (\dfrac{z-
  
  Po uproszczeniu , dla T = 0.25s
   \[G(z) = 0.5893\dfrac{1-e}{z - e} + 0.5357\dfrac{1-e^{-0.75}}{z - e^{-0.75}} - 0.125\dfrac{1-e^{-0.5}}{z - e^{-0.5}}  \] 
+  Czyli
+  \[G(z) = \dfrac{0.779114z^2 - 0.30963236942z - 0.11275337808 }{z^3 - 3.79718 z^2 + 3.21925 z - 0.778801} \]\\
+  \\
+Zera układu
+\begin{enumerate}
+\item Dla transmitancji ciągłej \[ s_1 = -0.5 , s_2 = -1.5 \]
+\item Dla transmitancji dyskretnej \[ z_1 = -0.230483 , z_2 = 0.627899\]
+\end{enumerate}
+Bieguny układu
 
+\begin{enumerate}
+\item Dla transmitancji ciągłej \[ s_1 = 4 , s_2 = -2 , s_3 = -3\]
+\item Dla transmitancji dyskretnej \[ z_1 = 0.472367 , z_2 = 0.606531 , z_3 = 2.71828\]
+\end{enumerate}
+\item Reprezentacja modelu w przestrzeni stanów
+Po przemnożeniu naszej transmitancji dyskretnej przez \( z^{-n} = z^{-3}\)
+otrzymujemy
+  \[G(z) = \dfrac{0.779114z^{-1} - 0.30963236942z^{-2} - 0.11275337808z^{-3} }{1 - 3.79718 z^{-1} + 3.21925 z^{-2} - 0.778801z^{-3}} \]
+  Czyli macierze dla wariantu pierwszego wyglądają następująco
+ \[ A = 	
+ \begin{bmatrix}
+   3.79718 & -3.21925 & 0.778801\\
+   1 & 0 & 0\\
+   0 & 1 & 0
+  \end{bmatrix}
+\]
 
+\[C = 
+\begin{bmatrix}
+	0.779114 & 0.30963236942 & 0.11275337808 \\
+\end{bmatrix}
+\]
+\includegraphics[width=\textwidth]{Wariant1.jpg}
+
+Oraz dla wartiantu drugiego 
+
+ \[ A = 	
+ \begin{bmatrix}
+   3.79718 & 1 & 0 \\
+   -3.21925 & 0 & 1\\
+   0.778801 & 0 & 0
+  \end{bmatrix}
+\]
+
+\[B = 
+\begin{bmatrix}
+	0.779114 \\
+	0.30963236942 \\
+	 0.11275337808 \\
+\end{bmatrix}
+\]
+\includegraphics[width=\textwidth]{Wariant2.png}
+\item Wykazanie że obie reprezentacje modelu w przestrzeni stanów można sprowadzić do tej samej transmitancji
 \end{enumerate}
 \end{document}
