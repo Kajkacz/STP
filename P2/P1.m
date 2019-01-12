@@ -1,26 +1,37 @@
 %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 
 % Projekt nr. 2 STP - Kajetan Kaczmarek
-% Punkt 1 - wyznaczenie transmitancji dyskretnej
+% Punkt 1 - wyznaczenie modelu oraz symulacja
 %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 
-% Dane zadania z wzoru G(s) = (K_0*e^(-T_0*s))/((T_1*s + 1)(T_2*s + 1))
+function [systems] = P1()
 %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 
+% Inicjalizacja - okres probkowania i maksymalne testowane opoznienie
+Ts = 1; maxTau = 20;
+%%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 
+% Pobranie danych z pliku
+[u,y]=getDataFromFile("dane9.txt");
+% Wyliczenie modeli wej¶ciowych w oparciu o dane
+modelData = iddata(y,u,Ts);
+systems = idtf(zeros(1,1,maxTau));
+% Wyznaczenie modeli o opoznieniu do maxTau
+for j = 0:maxTau
+    tau = j;
+    delay = tau + 1;
+    % Podajemy licznik i mianownik tak aby otrzymaæ model z dwoma
+    % sk³adnikami w mianowniku i liczniku
+    N = [zeros(delay ,1)' NaN NaN];
+    D = [ 1 NaN NaN];
 
-K_0 = 2.7;
-T_0=5;
-T_1 = 1.83;
-T_2=5.31;
-
-% Zadany okres probkowania 0.5 s oraz dobrany empirycznie czas symulacji
-T_p = 0.5;
-tsym = 40;
-
-% Wyliczenie systemu ciaglego
-sys = tf('s');
-TransferFunction = (K_0 * exp(-sys*T_0))/((T_1*sys + 1)*(T_2*sys +1));
-
-
-% Stworzenie systemu dyskretnego na podstawie systemu ciaglego
-discTF = c2d(TransferFunction, T_p, 'zoh')
-
-% Rysowanie wykresu - odkomentowac dla wlaczenia rysowania
-P1_Draw(TransferFunction,tsym, T_p);
+    model = idtf(N,D,Ts);
+    % Oznaczamy warto¶ci licznika do dwóch ostatnich jako niezmienialne
+    % zera na potrzeby tfest
+    for i = 1:delay
+        model.Structure.num.Free(i) = false;
+    end
+    % Wyliczamy po kolei nasze systemy
+    systems(:,:,j+1) = tfest(modelData,model);
+end
+% Wyznnczenie b³êdu dla ka¿dego modelu i narysowanie wykresów 
+Errors = zeros(1,maxTau+1);
+for j = 0:maxTau
+   [~,Errors(j+1)]=P1_Draw(systems(:,:,j+1),u,y,j);
+end
