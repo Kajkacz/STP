@@ -1,0 +1,1269 @@
+Matlab Files : \\* 
+ \begin{itemize} 
+\item 
+ \includegraphics{./Ju.png} 
+\item 
+ \includegraphics{./P6_3_DMC_Koncowe_.png} 
+\item 
+ \includegraphics{./Step.bmp} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.8.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.9.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.05.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.11.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.04.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.12.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.06.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.07.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.13.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.17.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.03.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.02.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.16.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.14.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.28.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.29.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.15.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.01.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.18.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.24.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.25.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.19.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.27.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.26.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.22.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.23.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.21.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.09.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.08.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.7.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.6.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.4.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.5.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.1.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.2.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_1.png} 
+\item 
+ \includegraphics{./ModelsP6_ulimit/P4_DMC_ulimit_0.3.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_15.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_10.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_75.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_60.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_70.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_65.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_100.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_80.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_95.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_5.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_40.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_55.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_45.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_50.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_85.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_90.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_20.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_35.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_25.png} 
+\item 
+ \includegraphics{./ModelsP4_N/P4_DMC_N_30.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_0.8.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_0.9.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.9.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.8.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.9.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.8.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.9.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.8.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.8.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_5.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.9.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.2.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.3.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.1.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.3.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.1.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.2.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.6.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.4.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.5.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.7.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.5.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.7.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_1.6.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_3.4.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.5.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_0.1.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.3.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.2.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.4.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.6.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_0.2.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.1.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_0.3.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.7.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.3.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_0.7.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.5.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.4.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_0.6.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.2.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_0.4.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.6.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_2.7.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_0.5.png} 
+\item 
+ \includegraphics{./ModelsP4_Disturbance/P4_DMC_Disturbance_4.1.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau2.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau3.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau1.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau20.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau0.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau4.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau18.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau19.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau5.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau7.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau6.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau17.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau16.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau8.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau14.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau15.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau9.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau11.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau10.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau12.png} 
+\item 
+ \includegraphics{./ModelsP1/modelTau13.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_59.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_71.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_65.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_64.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_70.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_58.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_66.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_72.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_99.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_100.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_98.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_73.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_67.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_63.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_77.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_88.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_89.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_76.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_62.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_74.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_60.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_48.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_49.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_61.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_75.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_12.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_9.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_8.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_13.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_39.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_11.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_10.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_38.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_14.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_28.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_29.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_15.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_17.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_16.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_33.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_27.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_1.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_26.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_32.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_18.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_24.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_30.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_3.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_2.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_31.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_25.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_19.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_21.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_35.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_6.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_7.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_34.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_20.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_36.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_22.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_5.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_4.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_23.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_37.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_78.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_50.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_44.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_93.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_87.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_86.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_92.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_45.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_51.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_79.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_47.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_53.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_84.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_90.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_91.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_85.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_52.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_46.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_42.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_56.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_81.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_95.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_94.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_80.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_57.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_43.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_55.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_41.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_69.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_96.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_82.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_83.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_97.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_68.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_40.png} 
+\item 
+ \includegraphics{./ModelsP4_Lambda/P4_DMC_Lambda_54.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_3.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_2.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_1.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_5.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_4.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_6.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_7.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_20.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_19.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_18.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_16.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_17.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_15.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_14.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_10.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_11.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_13.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_12.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_9.png} 
+\item 
+ \includegraphics{./ModelsP4_Nu/P4_DMC_Nu_8.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_110.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_60.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_75.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_105.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_115.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_65.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_70.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_100.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_5.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_170.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_15.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_165.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_175.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_10.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_160.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_200.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_185.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_190.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_145.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_35.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_20.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_150.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_140.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_30.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_25.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_155.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_180.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_195.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_125.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_55.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_40.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_130.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_95.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_80.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_90.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_85.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_120.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_50.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_45.png} 
+\item 
+ \includegraphics{./ModelsP4_D/P4_DMC_D_135.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.27.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.33.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.32.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.26.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.8.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.24.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.18.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.19.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.25.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.31.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.9.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.09.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.35.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.21.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.34.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.08.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.22.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.36.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.37.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.23.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.87.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.93.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.44.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.78.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.79.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.51.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.45.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.92.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.86.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.84.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.53.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.47.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.46.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.52.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.85.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.91.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.95.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.81.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.56.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.42.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.43.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.57.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.94.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.82.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.96.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.69.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.41.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.55.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.54.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.68.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.97.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.83.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.65.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.71.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.59.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.58.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.64.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.99.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.72.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.66.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.67.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.73.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.98.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.88.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.77.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.63.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.62.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.76.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.89.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.48.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.74.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.75.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.61.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.49.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.2.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_1.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.06.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.12.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.13.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.07.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.3.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.1.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.11.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.05.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.39.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.38.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.04.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.4.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.28.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.14.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.01.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.15.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.29.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.5.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.7.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.03.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.17.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.16.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.02.png} 
+\item 
+ \includegraphics{./ModelsP6_dulimit/P4_DMC_dulimit_0.6.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.6.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.55.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.15.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.7.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.5.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.95.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.4.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.85.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.1.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.3.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.05.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.45.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.2.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.5.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.4.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.6.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.7.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.35.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.75.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.65.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.25.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.3.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.2.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.1.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.95.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.55.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.15.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.05.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.45.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.9.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.8.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.85.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.35.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.75.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.9.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.8.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K2.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K1.65.png} 
+\item 
+ \includegraphics{./ModelsP3/ZN/P2_K0.25.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r11944.81r2-3888.81r31944.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r1_4.6424r2_-8.4129r3_3.8118.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r11.1016r2-2.3328r30.1944.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r120.254r2-39.6859r319.44.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r1195.2104r2-389.6096r3194.4.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r12.7945r2-4.6575r31.944.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r14.7182r2-8.5657r33.888.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r13.6155r2-6.3359r32.7771.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r14.6424r2-8.4129r33.8118.png} 
+\item 
+ \includegraphics{./ModelsP3/PID/P4-2_r11.863r2-2.673r30.972.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.82.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.96.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.41.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.55.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.69.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.68.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.54.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.97.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.83.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.95.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.81.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.56.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.42.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.43.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.57.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.94.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.84.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.53.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.47.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_10.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.46.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.52.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.85.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.91.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.87.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.93.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.78.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.44.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.51.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.45.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.79.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.92.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.86.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.22.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.36.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.37.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.23.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.35.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.21.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.09.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.08.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.34.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.18.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.24.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.25.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.31.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.19.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.27.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.33.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.32.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.26.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.03.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.17.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.16.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.02.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.14.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.28.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.29.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.01.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.15.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.39.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.11.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.05.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.04.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.38.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.06.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.12.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_9.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.13.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.07.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.74.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.48.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.49.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.75.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.4.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.61.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.88.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.77.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.63.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.62.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.76.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.7.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.89.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_6.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.99.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.72.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.66.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.67.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.73.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.2.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.98.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.59.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.65.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.71.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.9.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.8.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8.1.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.64.png} 
+\item 
+ \includegraphics{./ModelsDodatkowe_Alpha/P4_DMC_Alpha_0.58.png} 
+\end{itemize}
