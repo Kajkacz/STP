@@ -10,4 +10,7 @@ legend('y_{zad}(k)', 'u(k)', 'y(k)');
 xlabel('k');ylabel('y');
 title(sprintf(strcat('DMC dla ' ,' ' , valueDescrpitor ,  ' = ' ,num2str(value))) );
 hold off
-print(f, sprintf(strcat('Models',dir,'_' ,valueDescrpitor, '/P4_DMC_' ,valueDescrpitor, '_', num2str(value), '.png')),'-dpng');
+fileName = strcat('Models',dir,'_' ,valueDescrpitor, '/P4_DMC_' ,valueDescrpitor, '_', num2str(value),".png");
+fileName = strrep(fileName,".","_");
+fileName = sprintf(strcat(fileName));
+print(f,fileName,'-dpng');

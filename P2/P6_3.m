@@ -1,6 +1,6 @@
 %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 
 % Projekt nr. 2 STP - Kajetan Kaczmarek
-% Punkt 4 symulacja regulatora DMC, wybrane par. : D - D = 50, N = 15,
+% Punkt 6 symulacja regulatora DMC, wybrane par. : D - D = 50, N = 15,
 % Nu = 2
 % Wybrane wartosci : dulimit = 0.27 , dlimit = 0.09
 %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 

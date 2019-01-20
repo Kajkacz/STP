@@ -1,43 +1,45 @@
-Matlab Files : \\* 
- \begin{itemize} 
-\item 
- \lstinputlisting{DMC_Draw.m} 
-\item 
- \lstinputlisting{DMCnoLimit.m} 
-\item 
- \lstinputlisting{Dodatkowe.m} 
-\item 
- \lstinputlisting{DrawJ.m} 
-\item 
- \lstinputlisting{getDataFromFile.m} 
-\item 
- \lstinputlisting{getSquareError.m} 
-\item 
- \lstinputlisting{hlprTFtoLatex.m} 
-\item 
- \lstinputlisting{P1.m} 
-\item 
- \lstinputlisting{P1_Draw.m} 
-\item 
- \lstinputlisting{P2.m} 
-\item 
- \lstinputlisting{P3.m} 
-\item 
- \lstinputlisting{P3_ZN.m} 
-\item 
- \lstinputlisting{P4_Determining_D.m} 
-\item 
- \lstinputlisting{P4_Determining_Lambda.m} 
-\item 
- \lstinputlisting{P4_Determining_N.m} 
-\item 
- \lstinputlisting{P4_Determining_Nu.m} 
-\item 
- \lstinputlisting{P5.m} 
-\item 
- \lstinputlisting{P6_1.m} 
-\item 
- \lstinputlisting{P6_2.m} 
-\item 
- \lstinputlisting{P6_3.m} 
-\end{itemize}
+Matlab Files : \\*
+
+ \lstinputlisting[width=\linewidth/2]{DMC_Draw.m} 
+
+ \lstinputlisting[width=\linewidth/2]{DMCnoLimit.m} 
+
+ \lstinputlisting[width=\linewidth/2]{Dodatkowe.m} 
+
+ \lstinputlisting[width=\linewidth/2]{DrawJ.m} 
+
+ \lstinputlisting[width=\linewidth/2]{getDataFromFile.m} 
+
+ \lstinputlisting[width=\linewidth/2]{getJ.m} 
+
+ \lstinputlisting[width=\linewidth/2]{getSquareError.m} 
+
+ \lstinputlisting[width=\linewidth/2]{hlprTFtoLatex.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P1.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P1_Draw.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P2.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P3.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P3_Draw.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P3_ZN.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P4_Determining_D.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P4_Determining_Lambda.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P4_Determining_N.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P4_Determining_Nu.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P5.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P6_1.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P6_2.m} 
+
+ \lstinputlisting[width=\linewidth/2]{P6_3.m} 

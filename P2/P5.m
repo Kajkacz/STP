@@ -1,4 +1,8 @@
-% Model
+%%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 
+% Projekt nr. 2 STP - Kajetan Kaczmarek
+% Punkt 5 symulacja regulatora DMC z zakloceniem, wybrane par. : D = 50, N = 15,
+% Nu = 2, lambda = 3 
+%%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% % Model
 systems = P1();
 sys = systems(:,:,4);
 a=sys.Denominator;b=sys.Numerator;T= sys.Ts;

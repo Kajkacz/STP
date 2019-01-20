@@ -15,9 +15,15 @@ D = 50;
 Nu = 2;
 N = 25;
 kk = 500;
-
+Ju = zeros(lambdaMax,2);
+Jy = zeros(lambdaMax,2);
+i=1;
 for lambda = lambdaMax:-1:1
-    [y,y_zad,u] = DMCnoLimit(sys ,N,Nu,D,lambda,kk);
+    [y,y_zad,u,Jy(i,1),Ju(i,1)] = DMCnoLimit(sys ,N,Nu,D,lambda,kk);
+    Jy(i,2) = lambda;Ju(i,2) = lambda;
 
-    P4_DMC_Draw(kk, y,y_zad, u,lambda,value);
+    DMC_Draw(kk, y,y_zad, u,lambda,value,'P4');
+    i=i+1;
 end
+DrawJ(Jy,'lambda','Jy',10);
+DrawJ(Ju,'lambda','Ju',1);

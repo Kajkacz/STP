@@ -15,10 +15,14 @@ Nu = 20;
 Nmax=100;
 kk = 500;
 step = 5;
+Ju = zeros(Nmax/step,2);
+Jy = zeros(Nmax/step,2);
+i=1;
 for N = Nmax:-step:5
-    [y,y_zad,u] = DMCnoLimit(sys ,N,Nu,D,lambda,kk);
-
-    P4_DMC_Draw(kk, y,y_zad, u,N,value);
-    Jy(N/step) = sum((y - y_zad).^2);
-    Ju(N/step) = sum((u - circshift(u,[0,-1])).^2);
+    [y,y_zad,u,Jy(i,1),Ju(i,1)] = DMCnoLimit(sys ,N,Nu,D,lambda,kk);
+    Jy(i,2) = N;Ju(i,2) = N;
+    DMC_Draw(kk, y,y_zad, u,N,value,'P4');
+    i=i+1;
 end
+DrawJ(Jy,'N','Jy',10);
+DrawJ(Ju,'N','Ju',1);

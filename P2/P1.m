@@ -4,7 +4,7 @@
 %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 
 function [systems] = P1()
 %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 
-% Inicjalizacja - okres probkowania i maksymalne testowane opoznienie
+% Inicjalizacja - okres próbkowania i maksymalne testowane opoznienie
 Ts = 1; maxTau = 20;
 %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% %%%%% 
 % Pobranie danych z pliku
@@ -17,7 +17,7 @@ for j = 0:maxTau
     tau = j;
     delay = tau + 1;
     % Podajemy licznik i mianownik tak aby otrzymaæ model z dwoma
-    % sk³adnikami w mianowniku i liczniku
+    % skladnikami w mianowniku i liczniku
     N = [zeros(delay ,1)' NaN NaN];
     D = [ 1 NaN NaN];
 
@@ -30,7 +30,7 @@ for j = 0:maxTau
     % Wyliczamy po kolei nasze systemy
     systems(:,:,j+1) = tfest(modelData,model);
 end
-% Wyznnczenie b³êdu dla ka¿dego modelu i narysowanie wykresów 
+% Wyznaczenie bledu dla kazdego modelu i narysowanie wykresow 
 Errors = zeros(1,maxTau+1);
 for j = 0:maxTau
    [~,Errors(j+1)]=P1_Draw(systems(:,:,j+1),u,y,j);

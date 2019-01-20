@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.13)  13 JAN 2019 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.2)  18 JAN 2019 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -81,13 +81,39 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
+\captionmargin=\dimen112
+\captionmargin@=\dimen113
+\captionwidth=\dimen114
+\caption@tempdima=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
+)
+\c@ContinuedFloat=\count100
+)
+\c@subfigure=\count101
+\c@subtable=\count102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2018/03/30 v0.5 Package to support minimal working examples (MWE)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
@@ -102,27 +128,56 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen112
-\Gin@req@width=\dimen113
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
 )
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count103
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count104
+\c@Blindtext=\count105
+\c@blind@countparstart=\count106
+\blind@countxx=\count107
+\blindtext@numBlindtext=\count108
+\blind@countyy=\count109
+\c@blindlist=\count110
+\c@blindlistlevel=\count111
+\c@blindlist@level=\count112
+\blind@listitem=\count113
+\c@blind@listcount=\count114
+\c@blind@levelcount=\count115
+\blind@mathformula=\count116
+\blind@Mathformula=\count117
+\c@blind@randomcount=\count118
+\c@blind@randommax=\count119
+\c@blind@pangramcount=\count120
+\c@blind@pangrammax=\count121
+))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count100
+\lst@mode=\count122
 \lst@gtempboxa=\box28
 \lst@token=\toks20
-\lst@length=\count101
-\lst@currlwidth=\dimen114
-\lst@column=\count102
-\lst@pos=\count103
-\lst@lostspace=\dimen115
-\lst@width=\dimen116
-\lst@newlines=\count104
-\lst@lineno=\count105
-\lst@maxwidth=\dimen117
+\lst@length=\count123
+\lst@currlwidth=\dimen121
+\lst@column=\count124
+\lst@pos=\count125
+\lst@lostspace=\dimen122
+\lst@width=\dimen123
+\lst@newlines=\count126
+\lst@lineno=\count127
+\lst@maxwidth=\dimen124
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count106
-\lst@skipnumbers=\count107
+\c@lstnumber=\count128
+\lst@skipnumbers=\count129
 \lst@framebox=\box29
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
@@ -153,17 +208,17 @@ Language: polish 2005/03/31 v1.2l Polish support from the babel system
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2018/02/14 3.18 Babel common definitions
-\babel@savecnt=\count108
-\U@D=\dimen118
+\babel@savecnt=\count130
+\U@D=\dimen125
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count109
+\bbl@dirlevel=\count131
 )
 Package babel Info: Making " an active character on input line 83.
-\pl@left=\dimen119
-\pl@down=\dimen120
-\pl@right=\dimen121
-\pl@temp=\dimen122
+\pl@left=\dimen126
+\pl@down=\dimen127
+\pl@right=\dimen128
+\pl@temp=\dimen129
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
@@ -175,39 +230,11 @@ Package color Info: Driver file: pdftex.def on input line 147.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count110
+\c@float@type=\count132
 \float@exts=\toks23
 \float@box=\box30
 \@float@everytoks=\toks24
 \@floatcapt=\box31
-)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/subfig/subfig.sty
-Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen123
-\captionmargin@=\dimen124
-\captionwidth=\dimen125
-\caption@tempdima=\dimen126
-\caption@indent=\dimen127
-\caption@parindent=\dimen128
-\caption@hangindent=\dimen129
-)
-\c@KVtest=\count111
-\sf@farskip=\skip46
-\sf@captopadj=\dimen130
-\sf@capskip=\skip47
-\sf@nearskip=\skip48
-\c@subfigure=\count112
-\c@subfigure@save=\count113
-\c@lofdepth=\count114
-\c@subtable=\count115
-\c@subtable@save=\count116
-\c@lotdepth=\count117
-\sf@top=\skip49
-\sf@bottom=\skip50
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -215,31 +242,35 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 (./KajetanKaczmarekSprawozdanieSTP_P2.aux)
 \openout1 = `KajetanKaczmarekSprawozdanieSTP_P2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
-\scratchdimen=\dimen131
+\scratchcounter=\count133
+\scratchdimen=\dimen130
 \scratchbox=\box32
-\nofMPsegments=\count119
-\nofMParguments=\count120
+\nofMPsegments=\count134
+\nofMParguments=\count135
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count121
-\MPscratchDim=\dimen132
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
+\MPscratchCnt=\count136
+\MPscratchDim=\dimen131
+\MPnumerator=\count137
+\makeMPintoPDFobject=\count138
 \everyMPtoPDFconversion=\toks26
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -297,126 +328,687 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count124
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: subfig package v1.3 is loaded.
-Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count139
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
+<./ModelsP1/modelTau3.png, id=1, 803.1606pt x 602.25pt>
+File: ./ModelsP1/modelTau3.png Graphic file (type png)
+<use ./ModelsP1/modelTau3.png>
+Package pdftex.def Info: ./ModelsP1/modelTau3.png  used on input line 51.
+(pdftex.def)             Requested size: 360.0pt x 269.944pt.
 [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<./Ju.png, id=14, 562.2606pt x 421.575pt>
-File: ./Ju.png Graphic file (type png)
-<use ./Ju.png>
-Package pdftex.def Info: ./Ju.png  used on input line 45.
-(pdftex.def)             Requested size: 562.25923pt x 421.57396pt.
-<./P6_3_DMC_Koncowe_.png, id=15, 562.2606pt x 421.575pt>
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Model
+sP1/modelTau3.png (PNG copy)>] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+<./ModelsP1/modelTau0.png, id=19, 803.1606pt x 602.25pt>
+File: ./ModelsP1/modelTau0.png Graphic file (type png)
+<use ./ModelsP1/modelTau0.png>
+Package pdftex.def Info: ./ModelsP1/modelTau0.png  used on input line 85.
+(pdftex.def)             Requested size: 171.0022pt x 128.22224pt.
+<./ModelsP1/modelTau2.png, id=20, 803.1606pt x 602.25pt>
+File: ./ModelsP1/modelTau2.png Graphic file (type png)
+<use ./ModelsP1/modelTau2.png>
+Package pdftex.def Info: ./ModelsP1/modelTau2.png  used on input line 92.
+(pdftex.def)             Requested size: 171.0022pt x 128.22224pt.
+<./ModelsP1/modelTau5.png, id=21, 803.1606pt x 602.25pt>
+File: ./ModelsP1/modelTau5.png Graphic file (type png)
+<use ./ModelsP1/modelTau5.png>
+Package pdftex.def Info: ./ModelsP1/modelTau5.png  used on input line 99.
+(pdftex.def)             Requested size: 171.0022pt x 128.22224pt.
+<./ModelsP1/modelTau8.png, id=22, 803.1606pt x 602.25pt>
+File: ./ModelsP1/modelTau8.png Graphic file (type png)
+<use ./ModelsP1/modelTau8.png>
+Package pdftex.def Info: ./ModelsP1/modelTau8.png  used on input line 106.
+(pdftex.def)             Requested size: 171.0022pt x 128.22224pt.
+File: ./ModelsP1/modelTau0.png Graphic file (type png)
+<use ./ModelsP1/modelTau0.png>
+Package pdftex.def Info: ./ModelsP1/modelTau0.png  used on input line 117.
+(pdftex.def)             Requested size: 171.0022pt x 128.22224pt.
+File: ./ModelsP1/modelTau2.png Graphic file (type png)
+<use ./ModelsP1/modelTau2.png>
+Package pdftex.def Info: ./ModelsP1/modelTau2.png  used on input line 124.
+(pdftex.def)             Requested size: 171.0022pt x 128.22224pt.
+File: ./ModelsP1/modelTau5.png Graphic file (type png)
+<use ./ModelsP1/modelTau5.png>
+Package pdftex.def Info: ./ModelsP1/modelTau5.png  used on input line 131.
+(pdftex.def)             Requested size: 171.0022pt x 128.22224pt.
+File: ./ModelsP1/modelTau8.png Graphic file (type png)
+<use ./ModelsP1/modelTau8.png>
+Package pdftex.def Info: ./ModelsP1/modelTau8.png  used on input line 138.
+(pdftex.def)             Requested size: 171.0022pt x 128.22224pt.
+[3 <./ModelsP1/modelTau0.png (PNG copy)> <./ModelsP1/modelTau2.png (PNG copy)> 
+<./ModelsP1/modelTau5.png (PNG copy)> <./ModelsP1/modelTau8.png (PNG copy)>]
+[4]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 147.
+
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 147.
+ [5]
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+) (./P1.m
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
+)
+[6]
+<./OdpSkokowa.png, id=38, 1124.2pt x 843.15pt>
+File: ./OdpSkokowa.png Graphic file (type png)
+<use ./OdpSkokowa.png>
+Package pdftex.def Info: ./OdpSkokowa.png  used on input line 174.
+(pdftex.def)             Requested size: 360.0pt x 269.99362pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--180
+
+ []
+
+[7 <./OdpSkokowa.png (PNG copy)>]
+Overfull \hbox (32.5956pt too wide) in paragraph at lines 182--255
+[][] 
+ []
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+) (./P2.m)
+[8]
+<./ModelsP3/ZN/P2_K136png.png, id=46, 562.2606pt x 421.575pt>
+File: ./ModelsP3/ZN/P2_K136png.png Graphic file (type png)
+<use ./ModelsP3/ZN/P2_K136png.png>
+Package pdftex.def Info: ./ModelsP3/ZN/P2_K136png.png  used on input line 263.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--269
+
+ []
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+) (./P3_ZN.m)
+[9 <./ModelsP3/ZN/P2_K136png.png (PNG copy)>]
+<./ModelsP3/PID/P4-2_r1_47532r2_-86292r3_39168.png, id=50, 562.2606pt x 421.575
+pt>
+File: ./ModelsP3/PID/P4-2_r1_47532r2_-86292r3_39168.png Graphic file (type png)
+
+<use ./ModelsP3/PID/P4-2_r1_47532r2_-86292r3_39168.png>
+Package pdftex.def Info: ./ModelsP3/PID/P4-2_r1_47532r2_-86292r3_39168.png  use
+d on input line 273.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+) (./P3.m [10 <./ModelsP3/PID/P4-2_r1_47532r2_-86292r3_39168.png (PNG copy)>]) 
+[11]
+<./ModelsP4_J/JuD.png, id=57, 562.2606pt x 421.575pt>
+File: ./ModelsP4_J/JuD.png Graphic file (type png)
+<use ./ModelsP4_J/JuD.png>
+Package pdftex.def Info: ./ModelsP4_J/JuD.png  used on input line 286.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+<./ModelsP4_J/JyD.png, id=58, 562.2606pt x 421.575pt>
+File: ./ModelsP4_J/JyD.png Graphic file (type png)
+<use ./ModelsP4_J/JyD.png>
+Package pdftex.def Info: ./ModelsP4_J/JyD.png  used on input line 293.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./ModelsP4_D/P4_DMC_D_10_png.png, id=59, 562.2606pt x 421.575pt>
+File: ./ModelsP4_D/P4_DMC_D_10_png.png Graphic file (type png)
+<use ./ModelsP4_D/P4_DMC_D_10_png.png>
+Package pdftex.def Info: ./ModelsP4_D/P4_DMC_D_10_png.png  used on input line 3
+00.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+[12 <./ModelsP4_J/JuD.png (PNG copy)>]
+Overfull \vbox (7.24542pt too high) has occurred while \output is active []
+
+
+[13 <./ModelsP4_J/JyD.png (PNG copy)> <./ModelsP4_D/P4_DMC_D_10_png.png (PNG co
+py)>]
+<./ModelsP4_D/P4_DMC_D_50_png.png, id=67, 562.2606pt x 421.575pt>
+File: ./ModelsP4_D/P4_DMC_D_50_png.png Graphic file (type png)
+<use ./ModelsP4_D/P4_DMC_D_50_png.png>
+Package pdftex.def Info: ./ModelsP4_D/P4_DMC_D_50_png.png  used on input line 3
+07.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+<./ModelsP4_D/P4_DMC_D_65_png.png, id=68, 562.2606pt x 421.575pt>
+File: ./ModelsP4_D/P4_DMC_D_65_png.png Graphic file (type png)
+<use ./ModelsP4_D/P4_DMC_D_65_png.png>
+Package pdftex.def Info: ./ModelsP4_D/P4_DMC_D_65_png.png  used on input line 3
+14.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+ [14 <./ModelsP4_D/P4_DMC_D_50_png.png (PNG copy)>]
+<./ModelsP4_J/JuN.png, id=72, 562.2606pt x 421.575pt>
+File: ./ModelsP4_J/JuN.png Graphic file (type png)
+<use ./ModelsP4_J/JuN.png>
+Package pdftex.def Info: ./ModelsP4_J/JuN.png  used on input line 321.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./ModelsP4_J/JyN.png, id=73, 562.2606pt x 421.575pt>
+File: ./ModelsP4_J/JyN.png Graphic file (type png)
+<use ./ModelsP4_J/JyN.png>
+Package pdftex.def Info: ./ModelsP4_J/JyN.png  used on input line 328.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+[15 <./ModelsP4_D/P4_DMC_D_65_png.png (PNG copy)>]
+Overfull \vbox (7.24542pt too high) has occurred while \output is active []
+
+
+[16 <./ModelsP4_J/JuN.png (PNG copy)> <./ModelsP4_J/JyN.png (PNG copy)>]
+<./ModelsP4_N/P4_DMC_N_10_png.png, id=80, 562.2606pt x 421.575pt>
+File: ./ModelsP4_N/P4_DMC_N_10_png.png Graphic file (type png)
+<use ./ModelsP4_N/P4_DMC_N_10_png.png>
+Package pdftex.def Info: ./ModelsP4_N/P4_DMC_N_10_png.png  used on input line 3
+35.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+<./ModelsP4_N/P4_DMC_N_15_png.png, id=81, 562.2606pt x 421.575pt>
+File: ./ModelsP4_N/P4_DMC_N_15_png.png Graphic file (type png)
+<use ./ModelsP4_N/P4_DMC_N_15_png.png>
+Package pdftex.def Info: ./ModelsP4_N/P4_DMC_N_15_png.png  used on input line 3
+42.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./ModelsP4_N/P4_DMC_N_20_png.png, id=82, 562.2606pt x 421.575pt>
+File: ./ModelsP4_N/P4_DMC_N_20_png.png Graphic file (type png)
+<use ./ModelsP4_N/P4_DMC_N_20_png.png>
+Package pdftex.def Info: ./ModelsP4_N/P4_DMC_N_20_png.png  used on input line 3
+49.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+<./ModelsP4_J/JyNu.png, id=83, 562.2606pt x 421.575pt>
+File: ./ModelsP4_J/JyNu.png Graphic file (type png)
+<use ./ModelsP4_J/JyNu.png>
+Package pdftex.def Info: ./ModelsP4_J/JyNu.png  used on input line 355.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+[17 <./ModelsP4_N/P4_DMC_N_10_png.png (PNG copy)>]
+Overfull \vbox (7.24542pt too high) has occurred while \output is active []
+
+
+[18 <./ModelsP4_N/P4_DMC_N_15_png.png (PNG copy)> <./ModelsP4_N/P4_DMC_N_20_png
+.png (PNG copy)>]
+<./ModelsP4_J/JuNu.png, id=90, 562.2606pt x 421.575pt>
+File: ./ModelsP4_J/JuNu.png Graphic file (type png)
+<use ./ModelsP4_J/JuNu.png>
+Package pdftex.def Info: ./ModelsP4_J/JuNu.png  used on input line 362.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+ [19 <./ModelsP4_J/JyNu.png (PNG copy)>]
+<./ModelsP4_Nu/P4_DMC_Nu_1_png.png, id=95, 562.2606pt x 421.575pt>
+File: ./ModelsP4_Nu/P4_DMC_Nu_1_png.png Graphic file (type png)
+<use ./ModelsP4_Nu/P4_DMC_Nu_1_png.png>
+Package pdftex.def Info: ./ModelsP4_Nu/P4_DMC_Nu_1_png.png  used on input line 
+369.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+ [20 <./ModelsP4_J/JuNu.png (PNG copy)>]
+<./ModelsP4_Nu/P4_DMC_Nu_2_png.png, id=99, 562.2606pt x 421.575pt>
+File: ./ModelsP4_Nu/P4_DMC_Nu_2_png.png Graphic file (type png)
+<use ./ModelsP4_Nu/P4_DMC_Nu_2_png.png>
+Package pdftex.def Info: ./ModelsP4_Nu/P4_DMC_Nu_2_png.png  used on input line 
+376.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./ModelsP4_Nu/P4_DMC_Nu_3_png.png, id=100, 562.2606pt x 421.575pt>
+File: ./ModelsP4_Nu/P4_DMC_Nu_3_png.png Graphic file (type png)
+<use ./ModelsP4_Nu/P4_DMC_Nu_3_png.png>
+Package pdftex.def Info: ./ModelsP4_Nu/P4_DMC_Nu_3_png.png  used on input line 
+383.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+<./ModelsP4_J/Jylambda.png, id=101, 562.2606pt x 421.575pt>
+File: ./ModelsP4_J/Jylambda.png Graphic file (type png)
+<use ./ModelsP4_J/Jylambda.png>
+Package pdftex.def Info: ./ModelsP4_J/Jylambda.png  used on input line 389.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+[21 <./ModelsP4_Nu/P4_DMC_Nu_1_png.png (PNG copy)>]
+Overfull \vbox (7.24542pt too high) has occurred while \output is active []
+
+
+[22 <./ModelsP4_Nu/P4_DMC_Nu_2_png.png (PNG copy)> <./ModelsP4_Nu/P4_DMC_Nu_3_p
+ng.png (PNG copy)>]
+<./ModelsP4_J/Julambda.png, id=108, 562.2606pt x 421.575pt>
+File: ./ModelsP4_J/Julambda.png Graphic file (type png)
+<use ./ModelsP4_J/Julambda.png>
+Package pdftex.def Info: ./ModelsP4_J/Julambda.png  used on input line 396.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+ [23 <./ModelsP4_J/Jylambda.png (PNG copy)>]
+<./ModelsP4_lambda/P4_DMC_lambda_1_png.png, id=112, 562.2606pt x 421.575pt>
+File: ./ModelsP4_lambda/P4_DMC_lambda_1_png.png Graphic file (type png)
+<use ./ModelsP4_lambda/P4_DMC_lambda_1_png.png>
+Package pdftex.def Info: ./ModelsP4_lambda/P4_DMC_lambda_1_png.png  used on inp
+ut line 403.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+ [24 <./ModelsP4_J/Julambda.png (PNG copy)>]
+<./ModelsP4_lambda/P4_DMC_lambda_2_png.png, id=116, 562.2606pt x 421.575pt>
+File: ./ModelsP4_lambda/P4_DMC_lambda_2_png.png Graphic file (type png)
+<use ./ModelsP4_lambda/P4_DMC_lambda_2_png.png>
+Package pdftex.def Info: ./ModelsP4_lambda/P4_DMC_lambda_2_png.png  used on inp
+ut line 410.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./ModelsP4_lambda/P4_DMC_lambda_3_png.png, id=117, 562.2606pt x 421.575pt>
+File: ./ModelsP4_lambda/P4_DMC_lambda_3_png.png Graphic file (type png)
+<use ./ModelsP4_lambda/P4_DMC_lambda_3_png.png>
+Package pdftex.def Info: ./ModelsP4_lambda/P4_DMC_lambda_3_png.png  used on inp
+ut line 417.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+[25 <./ModelsP4_lambda/P4_DMC_lambda_1_png.png (PNG copy)>]
+Overfull \vbox (7.24542pt too high) has occurred while \output is active []
+
+
+[26 <./ModelsP4_lambda/P4_DMC_lambda_2_png.png (PNG copy)> <./ModelsP4_lambda/P
+4_DMC_lambda_3_png.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 422--424
+
+ []
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+)
+(./P4_Determining_D.m)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+)
+(./P4_Determining_Lambda.m [27])
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+)
+(./P4_Determining_N.m)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+)
+(./P4_Determining_Nu.m)
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+
+ []
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+) (./DMCnoLimit.m
+[28]) [29] (/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+)
+(./P5.m)
+<./ModelsP4_Disturbance/P4_DMC_Disturbance_0_4_png.png, id=134, 562.2606pt x 42
+1.575pt>
+File: ./ModelsP4_Disturbance/P4_DMC_Disturbance_0_4_png.png Graphic file (type 
+png)
+<use ./ModelsP4_Disturbance/P4_DMC_Disturbance_0_4_png.png>
+Package pdftex.def Info: ./ModelsP4_Disturbance/P4_DMC_Disturbance_0_4_png.png 
+ used on input line 437.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsP4_Disturbance/P4_DMC_Disturbance_1_4_png.png, id=135, 562.2606pt x 42
+1.575pt>
+File: ./ModelsP4_Disturbance/P4_DMC_Disturbance_1_4_png.png Graphic file (type 
+png)
+<use ./ModelsP4_Disturbance/P4_DMC_Disturbance_1_4_png.png>
+Package pdftex.def Info: ./ModelsP4_Disturbance/P4_DMC_Disturbance_1_4_png.png 
+ used on input line 438.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsP4_Disturbance/P4_DMC_Disturbance_3_4_png.png, id=136, 562.2606pt x 42
+1.575pt>
+File: ./ModelsP4_Disturbance/P4_DMC_Disturbance_3_4_png.png Graphic file (type 
+png)
+<use ./ModelsP4_Disturbance/P4_DMC_Disturbance_3_4_png.png>
+Package pdftex.def Info: ./ModelsP4_Disturbance/P4_DMC_Disturbance_3_4_png.png 
+ used on input line 439.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsP4_Disturbance/P4_DMC_Disturbance_4_6_png.png, id=137, 562.2606pt x 42
+1.575pt>
+File: ./ModelsP4_Disturbance/P4_DMC_Disturbance_4_6_png.png Graphic file (type 
+png)
+<use ./ModelsP4_Disturbance/P4_DMC_Disturbance_4_6_png.png>
+Package pdftex.def Info: ./ModelsP4_Disturbance/P4_DMC_Disturbance_4_6_png.png 
+ used on input line 440.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+ [30] [31 <./ModelsP4_Disturbance/P4_DMC_Disturbance_0_4_png.png (PNG copy)> <.
+/ModelsP4_Disturbance/P4_DMC_Disturbance_1_4_png.png (PNG copy)>]
+[32 <./ModelsP4_Disturbance/P4_DMC_Disturbance_3_4_png.png (PNG copy)> <./Model
+sP4_Disturbance/P4_DMC_Disturbance_4_6_png.png (PNG copy)>]
+Overfull \hbox (5.78375pt too wide) in paragraph at lines 446--449
+\T1/cmr/m/n/10.95 umax = 0.27.Dal-sze zwi¦k-sza-nie tej war-to-±ci nie ma du-»e
+go wpªywu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--449
+
+ []
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+) (./P6_1.m
+[33])
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+
+ []
+
+<./ModelsP6_ulimit/P4_DMC_ulimit_0_2_png.png, id=151, 562.2606pt x 421.575pt>
+File: ./ModelsP6_ulimit/P4_DMC_ulimit_0_2_png.png Graphic file (type png)
+<use ./ModelsP6_ulimit/P4_DMC_ulimit_0_2_png.png>
+Package pdftex.def Info: ./ModelsP6_ulimit/P4_DMC_ulimit_0_2_png.png  used on i
+nput line 452.
+(pdftex.def)             Requested size: 308.53491pt x 231.33304pt.
+<./ModelsP6_ulimit/P4_DMC_ulimit_0_26_png.png, id=152, 562.2606pt x 421.575pt>
+File: ./ModelsP6_ulimit/P4_DMC_ulimit_0_26_png.png Graphic file (type png)
+<use ./ModelsP6_ulimit/P4_DMC_ulimit_0_26_png.png>
+Package pdftex.def Info: ./ModelsP6_ulimit/P4_DMC_ulimit_0_26_png.png  used on 
+input line 454.
+(pdftex.def)             Requested size: 308.53491pt x 231.33304pt.
+<./ModelsP6_ulimit/P4_DMC_ulimit_0_27_png.png, id=153, 562.2606pt x 421.575pt>
+File: ./ModelsP6_ulimit/P4_DMC_ulimit_0_27_png.png Graphic file (type png)
+<use ./ModelsP6_ulimit/P4_DMC_ulimit_0_27_png.png>
+Package pdftex.def Info: ./ModelsP6_ulimit/P4_DMC_ulimit_0_27_png.png  used on 
+input line 456.
+(pdftex.def)             Requested size: 308.53491pt x 231.33304pt.
+<./ModelsP6_ulimit/P4_DMC_ulimit_0_3_png.png, id=154, 562.2606pt x 421.575pt>
+File: ./ModelsP6_ulimit/P4_DMC_ulimit_0_3_png.png Graphic file (type png)
+<use ./ModelsP6_ulimit/P4_DMC_ulimit_0_3_png.png>
+Package pdftex.def Info: ./ModelsP6_ulimit/P4_DMC_ulimit_0_3_png.png  used on i
+nput line 457.
+(pdftex.def)             Requested size: 308.53491pt x 231.33304pt.
+[34 <./ModelsP6_ulimit/P4_DMC_ulimit_0_2_png.png (PNG copy)> <./ModelsP6_ulimit
+/P4_DMC_ulimit_0_26_png.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 458--461
+
+ []
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+) (./P6_2.m
+[35 <./ModelsP6_ulimit/P4_DMC_ulimit_0_27_png.png (PNG copy)> <./ModelsP6_ulimi
+t/P4_DMC_ulimit_0_3_png.png (PNG copy)>]) [36]
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
+
+ []
+
+<./ModelsP6_dulimit/P4_DMC_dulimit_0_3_png.png, id=164, 562.2606pt x 421.575pt>
+
+File: ./ModelsP6_dulimit/P4_DMC_dulimit_0_3_png.png Graphic file (type png)
+<use ./ModelsP6_dulimit/P4_DMC_dulimit_0_3_png.png>
+Package pdftex.def Info: ./ModelsP6_dulimit/P4_DMC_dulimit_0_3_png.png  used on
+ input line 465.
+(pdftex.def)             Requested size: 308.53491pt x 231.33304pt.
+<./ModelsP6_dulimit/P4_DMC_dulimit_0_05_png.png, id=165, 562.2606pt x 421.575pt
+>
+File: ./ModelsP6_dulimit/P4_DMC_dulimit_0_05_png.png Graphic file (type png)
+<use ./ModelsP6_dulimit/P4_DMC_dulimit_0_05_png.png>
+Package pdftex.def Info: ./ModelsP6_dulimit/P4_DMC_dulimit_0_05_png.png  used o
+n input line 467.
+(pdftex.def)             Requested size: 308.53491pt x 231.33304pt.
+<./ModelsP6_dulimit/P4_DMC_dulimit_0_9_png.png, id=166, 562.2606pt x 421.575pt>
+
+File: ./ModelsP6_dulimit/P4_DMC_dulimit_0_9_png.png Graphic file (type png)
+<use ./ModelsP6_dulimit/P4_DMC_dulimit_0_9_png.png>
+Package pdftex.def Info: ./ModelsP6_dulimit/P4_DMC_dulimit_0_9_png.png  used on
+ input line 469.
+(pdftex.def)             Requested size: 308.53491pt x 231.33304pt.
+[37 <./ModelsP6_dulimit/P4_DMC_dulimit_0_3_png.png (PNG copy)> <./ModelsP6_duli
+mit/P4_DMC_dulimit_0_05_png.png (PNG copy)>]
+<./ModelsP6_dulimit/P4_DMC_dulimit_0_11_png.png, id=171, 562.2606pt x 421.575pt
+>
+File: ./ModelsP6_dulimit/P4_DMC_dulimit_0_11_png.png Graphic file (type png)
+<use ./ModelsP6_dulimit/P4_DMC_dulimit_0_11_png.png>
+Package pdftex.def Info: ./ModelsP6_dulimit/P4_DMC_dulimit_0_11_png.png  used o
+n input line 471.
+(pdftex.def)             Requested size: 308.53491pt x 231.33304pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--478
+
+ []
+
+<./P6_3_DMC_Koncowe_.png, id=172, 562.2606pt x 421.575pt>
 File: ./P6_3_DMC_Koncowe_.png Graphic file (type png)
 <use ./P6_3_DMC_Koncowe_.png>
-Package pdftex.def Info: ./P6_3_DMC_Koncowe_.png  used on input line 46.
-(pdftex.def)             Requested size: 562.25923pt x 421.57396pt.
-
-
-! LaTeX Error: Unknown graphics extension: .bmp.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47  \includegraphics{./Step.bmp}
-                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Unknown graphics extension: .8.png.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 ...s{./ModelsP6_ulimit/P4_DMC_ulimit_0.8.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Unknown graphics extension: .9.png.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 ...s{./ModelsP6_ulimit/P4_DMC_ulimit_0.9.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Unknown graphics extension: .05.png.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 ...{./ModelsP6_ulimit/P4_DMC_ulimit_0.05.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Unknown graphics extension: .11.png.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.51 ...{./ModelsP6_ulimit/P4_DMC_ulimit_0.11.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Unknown graphics extension: .04.png.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 ...{./ModelsP6_ulimit/P4_DMC_ulimit_0.04.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (229.6343pt too wide) in paragraph at lines 45--53
-[][]
- []
-
-
-Overfull \hbox (229.6343pt too wide) in paragraph at lines 45--53
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--53
+Package pdftex.def Info: ./P6_3_DMC_Koncowe_.png  used on input line 481.
+(pdftex.def)             Requested size: 360.0pt x 269.92285pt.
+[38 <./ModelsP6_dulimit/P4_DMC_dulimit_0_9_png.png (PNG copy)> <./ModelsP6_duli
+mit/P4_DMC_dulimit_0_11_png.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
 
  []
 
-[2 <./Ju.png (PNG copy)>] [3 <./P6_3_DMC_Koncowe_.png (PNG copy)>]
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+) (./P6_3.m
+[39 <./P6_3_DMC_Koncowe_.png (PNG copy)>])
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1_1_png.png, id=179, 562.2606pt x 421.575
+pt>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1_1_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1_1_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1_1_png.png  used
+ on input line 492.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+ [40]
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1_5_png.png, id=183, 562.2606pt x 421.575
+pt>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1_5_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1_5_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1_5_png.png  used
+ on input line 494.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2_png.png, id=184, 562.2606pt x 421.575pt
+>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2_png.png  used o
+n input line 495.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2_4_png.png, id=185, 562.2606pt x 421.575
+pt>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2_4_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2_4_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2_4_png.png  used
+ on input line 496.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+ [41 <./ModelsDodatkowe_Alpha/P4_DMC_Alpha_1_1_png.png (PNG copy)> <./ModelsDod
+atkowe_Alpha/P4_DMC_Alpha_1_5_png.png (PNG copy)>]
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3_png.png, id=189, 562.2606pt x 421.575pt
+>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3_png.png  used o
+n input line 498.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3_6_png.png, id=190, 562.2606pt x 421.575
+pt>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3_6_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3_6_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3_6_png.png  used
+ on input line 499.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_2_png.png, id=191, 562.2606pt x 421.575
+pt>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_2_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_2_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_2_png.png  used
+ on input line 500.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_3_png.png, id=192, 562.2606pt x 421.575
+pt>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_3_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_3_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_3_png.png  used
+ on input line 501.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_4_png.png, id=193, 562.2606pt x 421.575
+pt>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_4_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_4_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_4_png.png  used
+ on input line 502.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5_4_png.png, id=194, 562.2606pt x 421.575
+pt>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5_4_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5_4_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_5_4_png.png  used
+ on input line 503.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8_9_png.png, id=195, 562.2606pt x 421.575
+pt>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8_9_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8_9_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_8_9_png.png  used
+ on input line 504.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_Alpha/P4_DMC_Alpha_10_png.png, id=196, 562.2606pt x 421.575p
+t>
+File: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_10_png.png Graphic file (type png)
+<use ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_10_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_Alpha/P4_DMC_Alpha_10_png.png  used 
+on input line 505.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+ [42 <./ModelsDodatkowe_Alpha/P4_DMC_Alpha_2_png.png (PNG copy)> <./ModelsDodat
+kowe_Alpha/P4_DMC_Alpha_2_4_png.png (PNG copy)>] [43 <./ModelsDodatkowe_Alpha/P
+4_DMC_Alpha_3_png.png (PNG copy)> <./ModelsDodatkowe_Alpha/P4_DMC_Alpha_3_6_png
+.png (PNG copy)>] [44 <./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_2_png.png (PNG co
+py)> <./ModelsDodatkowe_Alpha/P4_DMC_Alpha_4_3_png.png (PNG copy)>] [45 <./Mode
+lsDodatkowe_Alpha/P4_DMC_Alpha_4_4_png.png (PNG copy)> <./ModelsDodatkowe_Alpha
+/P4_DMC_Alpha_5_4_png.png (PNG copy)>] [46 <./ModelsDodatkowe_Alpha/P4_DMC_Alph
+a_8_9_png.png (PNG copy)> <./ModelsDodatkowe_Alpha/P4_DMC_Alpha_10_png.png (PNG
+ copy)>]
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_1_png.png, id=213, 562.2606pt
+ x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_1_png.png Graphic file (
+type png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_1_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_1_png
+.png  used on input line 510.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_5_png.png, id=214, 562.2606pt
+ x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_5_png.png Graphic file (
+type png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_5_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_5_png
+.png  used on input line 512.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_png.png, id=215, 562.2606pt x
+ 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_png.png Graphic file (ty
+pe png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_png.p
+ng  used on input line 513.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_4_png.png, id=216, 562.2606pt
+ x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_4_png.png Graphic file (
+type png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_4_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_4_png
+.png  used on input line 514.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+ [47 <./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_1_png.png (PNG copy)> <.
+/ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_1_5_png.png (PNG copy)>]
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_png.png, id=220, 562.2606pt x
+ 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_png.png Graphic file (ty
+pe png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_png.p
+ng  used on input line 516.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_6_png.png, id=221, 562.2606pt
+ x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_6_png.png Graphic file (
+type png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_6_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_6_png
+.png  used on input line 517.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_2_png.png, id=222, 562.2606pt
+ x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_2_png.png Graphic file (
+type png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_2_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_2_png
+.png  used on input line 518.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_3_png.png, id=223, 562.2606pt
+ x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_3_png.png Graphic file (
+type png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_3_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_3_png
+.png  used on input line 519.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_4_png.png, id=224, 562.2606pt
+ x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_4_png.png Graphic file (
+type png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_4_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_4_png
+.png  used on input line 520.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_5_4_png.png, id=225, 562.2606pt
+ x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_5_4_png.png Graphic file (
+type png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_5_4_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_5_4_png
+.png  used on input line 521.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_8_9_png.png, id=226, 562.2606pt
+ x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_8_9_png.png Graphic file (
+type png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_8_9_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_8_9_png
+.png  used on input line 522.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+<./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_10_png.png, id=227, 562.2606pt 
+x 421.575pt>
+File: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_10_png.png Graphic file (t
+ype png)
+<use ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_10_png.png>
+Package pdftex.def Info: ./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_10_png.
+png  used on input line 523.
+(pdftex.def)             Requested size: 332.62494pt x 249.39609pt.
+ [48 <./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_png.png (PNG copy)> <./M
+odelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_2_4_png.png (PNG copy)>] [49 <./Mod
+elsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_png.png (PNG copy)> <./ModelsDodatk
+owe_AlphaNoOgr/P4_DMC_AlphaNoOgr_3_6_png.png (PNG copy)>]
+[50 <./ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_2_png.png (PNG copy)> <./
+ModelsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_3_png.png (PNG copy)>] [51 <./Mo
+delsDodatkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_4_4_png.png (PNG copy)> <./ModelsDod
+atkowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_5_4_png.png (PNG copy)>] [52 <./ModelsDodat
+kowe_AlphaNoOgr/P4_DMC_AlphaNoOgr_8_9_png.png (PNG copy)> <./ModelsDodatkowe_Al
+phaNoOgr/P4_DMC_AlphaNoOgr_10_png.png (PNG copy)>]
 (./KajetanKaczmarekSprawozdanieSTP_P2.aux) ) 
 Here is how much of TeX's memory you used:
- 5072 strings out of 492649
- 72178 string characters out of 6129622
- 172381 words of memory out of 5000000
- 8878 multiletter control sequences out of 15000+600000
- 10491 words of font info for 33 fonts, out of 8000000 for 9000
+ 7281 strings out of 492649
+ 110331 string characters out of 6129623
+ 484931 words of memory out of 5000000
+ 10930 multiletter control sequences out of 15000+600000
+ 12474 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,40p,301b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,10n,40p,883b,2161s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist
 /fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2018/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fo
@@ -424,14 +1016,18 @@ nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/font
 s/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type
-1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
-public/cm-super/sfrm1200.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
-blic/cm-super/sfrm1728.pfb>
-Output written on KajetanKaczmarekSprawozdanieSTP_P2.pdf (3 pages, 158786 bytes
-).
+1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
+blic/cm-super/sfrm0600.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/publ
+ic/cm-super/sfrm1000.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public
+/cm-super/sfrm1095.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/c
+m-super/sfrm1200.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-
+super/sfrm1728.pfb>
+Output written on KajetanKaczmarekSprawozdanieSTP_P2.pdf (52 pages, 3175129 byt
+es).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 287 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 326 words of extra memory for PDF output out of 10000 (max. 10000000)
 

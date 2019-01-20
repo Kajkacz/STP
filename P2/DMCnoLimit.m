@@ -1,7 +1,7 @@
-function[y,y_zad,u] = DMCnoLimit(sys,N,Nu,D,lambda,kk)
+function[y,y_zad,u,Jy,Ju] = DMCnoLimit(sys,N,Nu,D,lambda,kk)
 % Model
 a=sys.Denominator;b=sys.Numerator;T= sys.Ts;
-skok = step(sys,1:T:N+Nu+D)
+skok = step(sys,1:T:N+Nu+D);
 
 
 % Wyzerowanie do kolejnych obliczen
@@ -51,3 +51,4 @@ for k=D:kk
     du(k) = ke*(y_zad(k) - y(k)) - swob;
     u(k) = u(k-1) + du(k);
 end
+[Jy,Ju] = getJ(y,y_zad,u,kk);

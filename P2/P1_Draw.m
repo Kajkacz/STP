@@ -10,7 +10,7 @@ y1=lsim(TransferFunction,u,T_sim);
 E = getSquareError(y1,y);
 % Ustal tytul
 titleString = sprintf('%s %d %s %d','Porownanie modelu i danych dla tau = ', tau,' blad E = ',E);
-% Stworz obiekt na rysunki bez wy¶wietlanie
+% Stworz obiekt na rysunki bez wyswietlanie
 f = figure('Name', titleString,'Visible','Off');
 set(gcf, 'Position', [100, 100, 800, 600])
 hold on;
@@ -18,7 +18,7 @@ hold on;
 lsim(TransferFunction,u,T_sim);
 plot(y);
 % Dodaj legende i opis
-legend('Model', 'Dane', 'Sterowanie');
+legend('Model','Dane');
 xlabel('Czas');
 title(titleString);
 

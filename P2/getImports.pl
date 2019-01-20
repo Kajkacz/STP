@@ -21,23 +21,22 @@ opendir DIR, $dir or die "cannot open dir $dir: $!";
 #my @files= readdir DIR
 my @files = glob "*.m";
 open(my $MtLbHandle, ">", $folder.'/'.$MtLb)	or die "Can't open the log file: $!";
-print $MtLbHandle "Matlab Files : \\\\\* \n \\begin{itemize} \n";
+print $MtLbHandle "Matlab Files : \\\\\*\n";
 foreach my $file (@files) {
-  print $MtLbHandle "\\item \n \\lstinputlisting{";
+  (my $fileName = $file )=~ s{\.[^.]+$}{} ;
+  print $MtLbHandle "\n \\lstinputlisting{";
   print $MtLbHandle $file."} \n";
 }
-print $MtLbHandle "\\end{itemize}\n";
 close $MtLbHandle;
 closedir DIR;
 
 open(my $IMGHandle, ">", $folder.'/'.$images)	or die "Can't open the log file: $!";
-print $IMGHandle "Matlab Files : \\\\\* \n \\begin{itemize} \n";
+print $IMGHandle "Image Files : \n";
 find(\&saveImageInput, $dir);
-print $IMGHandle "\\end{itemize}\n";
 close $IMGHandle;
 
 sub saveImageInput {
   if($_ =~ /.*\.bmp/ || $_ =~ /.*\.jpg/ || $_ =~ /.*\.png/ ){
-    print $IMGHandle "\\item \n \\includegraphics{$File::Find::name} \n" ;
+    print $IMGHandle "\ \n \\includegraphics[width=\\linewidth]{$File::Find::name} \n" ;
   }
  }

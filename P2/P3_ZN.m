@@ -10,7 +10,7 @@ a1=-1.664; a0=0.692; b1=0.0535; b0=0.05131;
 K_r_Base =0.05;
 kk=1000; 
 
-for i = 1:40
+for i = 27:0.1:28
     y = zeros(kk,1);
     %warunki poczatkowe
     u(1:4)=0;

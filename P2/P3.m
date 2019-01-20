@@ -14,7 +14,7 @@ e=zeros(1,kk);
 %Parametry naszego modelu
 a1=-1.664; a0=0.692; b1=0.0535; b0=0.05131; T= 0.5; 
 %Procedura ZN 
-K_kr = 1.35; T_kr =20 ;
+K_kr = 1.36; T_kr =20 ;
 %Wyliczenie parametrów PID
 K = 0.6*K_kr; Ti = 0.5*T_kr; Td = 0.12*T_kr;
 %The controller parameters are proportional gain K, integral time Ti, and derivative time Td
@@ -33,7 +33,9 @@ for k=6:kk
     e(k) = y_zad(k) - y(k);
     u(k) = u(k-1) + r1*e(k) + r2*e(k) +r3*e(k);
 end
-    f = figure();
-    stairs(y); hold on; stairs(yzad,':');
-    title('Symulacja  PID' ); xlabel('k'); ylabel('y');
-    print(f, sprintf(['ModelsP3/PID/P4-2_r1_' num2str(r1) 'r2_' num2str(r2) 'r3_'  num2str(r3) '.png']), '-dpng');
+f = figure();
+stairs(y); hold on; stairs(yzad,':');
+title('Symulacja  PID' ); xlabel('k'); ylabel('y');
+title = sprintf(strrep(['ModelsP3/PID/P4-2_r1_' num2str(r1) 'r2_' num2str(r2) 'r3_'  num2str(r3)],'.',''));
+title = strrep(title,'.','_');
+print(f, title, '-dpng');
